@@ -1,0 +1,22 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Ensalada Cesar",
+      "precioPlatillo": "100",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Cheesecake",
+      "precioPlatillo": "1000",
+      "categoria": "postre",
+      "id": 4
+    }
+  ]
+}
